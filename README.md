@@ -1,4 +1,4 @@
-# iPhoneOS.platform-DeviceSupport  iPhoneOS.platform 真机设备支持库
+# iPhoneOS.platform-DeviceSupport 真机设备支持库
 
 ## 终端输入打开文件夹 拖入即可
 ```
